@@ -1,0 +1,2 @@
+# Devilman
+Akuma no chikaraaaai!
