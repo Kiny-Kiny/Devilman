@@ -8,7 +8,6 @@
 # Install🖥️
 
 ```
-💻Termux
 apt update && apt upgrade -y
 apt install git python -y
 git clone https://github.com/Kiny-Kiny/Devilman
